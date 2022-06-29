@@ -9,3 +9,8 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+/.mvn
+/.idea
+/kmp-website/node/build
+/kmp-website/node/node_modules
+/kmp-service/src/main/resources/public
